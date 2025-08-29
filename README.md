@@ -1,6 +1,30 @@
 # ChatGPT Chat Manager
 
-A Chrome extension that helps you organize, search, and manage your ChatGPT conversations efficiently.
+A Chrome extension that helps you organize, search, and manage your ChatGPT conversat## Support
+
+For issues, suggestions, or contributions:
+1. Open an issue in this repository
+2. Create a pull request for improvements
+3. Visit the [GitHub repository](https://github.com/theavidstallion/chatgpt-chat-extension)
+
+## Important Notes
+
+### Updating the Extension
+When a new version is released:
+1. Download the latest ZIP from this repository
+2. Delete the old extension folder
+3. Follow the installation steps again with the new files
+
+### Troubleshooting Installation
+If you encounter issues:
+1. Make sure Developer mode is enabled
+2. Try removing and re-adding the extension
+3. Check if your browser is up to date
+4. Ensure you're using a Chromium-based browser
+5. Verify that all files are properly extracted from the ZIP
+
+### Why Developer Mode?
+Developer mode is required for local extension installation. This is a standard security measure for browsers. The extension is completely safe to use, and you can review the source code in this repository.s efficiently.
 
 ## Features
 
@@ -15,9 +39,51 @@ A Chrome extension that helps you organize, search, and manage your ChatGPT conv
 
 ### Installation
 
-1. Visit chatgpt.com and log in to your account
-2. Click the extension icon in your Chrome toolbar
-3. If you don't see the icon, click the puzzle piece icon and pin ChatGPT Chat Manager
+#### Method 1: Direct Installation (Developer Mode)
+
+1. **Download the Extension**:
+   - Click the green "Code" button on this repository
+   - Select "Download ZIP"
+   - Extract the ZIP file to a folder on your computer
+
+2. **Install in Google Chrome**:
+   - Open Chrome and go to `chrome://extensions/`
+   - Enable "Developer mode" in the top-right corner
+   - Click "Load unpacked" in the top-left
+   - Navigate to and select the folder where you extracted the ZIP
+   - The extension will appear in your extensions list
+   - Click the puzzle piece icon in the toolbar and pin ChatGPT Chat Manager
+
+3. **Install in Microsoft Edge**:
+   - Open Edge and go to `edge://extensions/`
+   - Enable "Developer mode" in the bottom-left
+   - Click "Load unpacked"
+   - Select the extracted folder
+   - Pin the extension from the toolbar
+
+4. **Install in Brave Browser**:
+   - Open Brave and go to `brave://extensions/`
+   - Enable "Developer mode" in the top-right
+   - Click "Load unpacked"
+   - Select the extracted folder
+   - Pin the extension from the toolbar
+
+5. **Install in Opera**:
+   - Open Opera and go to `opera://extensions`
+   - Enable "Developer mode" in the top-right
+   - Click "Load unpacked"
+   - Select the extracted folder
+   - Pin the extension from the toolbar
+
+**Note**: Keep the extracted folder safe! Don't delete it as the extension runs from this location.
+
+#### Compatible Browsers
+- ✅ Google Chrome (recommended)
+- ✅ Microsoft Edge
+- ✅ Brave Browser
+- ✅ Opera
+- ✅ Other Chromium-based browsers
+- ❌ Firefox (not compatible)
 
 ### Basic Features
 
